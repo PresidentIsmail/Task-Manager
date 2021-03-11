@@ -1,0 +1,7 @@
+admin, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 20 Oct 2019, NO
+admin, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 25 Oct 2019, NO
+cactus, birthday, buy the robot birthday cake at CakeSpa, 17 feb 2021, 18 feb 2021, NO
+mave, music, hire a dj for the PALOR, 22 february 2021, 27 february 2021, YES
+21 savage, valentine, book the st marina park for jake and kylie, 14 february 2021, 15 february 2021, YES
+tyler, pick up, go to the airport at 13:00 and pick up Durant, 24 february 2021, 25 february 2021, NO
+mave, clean up, hire 5 workers to do the clean up after production, 25 march 2021, 26 march 2021, YES

@@ -1,0 +1,57 @@
+There are a total of 7 tasks in your tasks.file.
+There are a total of 9 users in your user.file.
+
+admin assigned with 2 tasks.
+29% of all tasks have been assigned to admin.
+admin has completed 0.0% of their tasks
+admin still has 0.0% of their tasks left to complete.
+admin has 0.0% of tasks completed and has 0 task/s overdue.
+
+cactus assigned with 1 tasks.
+14% of all tasks have been assigned to cactus.
+cactus has completed 0.0% of their tasks
+cactus still has 0.0% of their tasks left to complete.
+cactus has 0.0% of tasks completed and has 0 task/s overdue.
+
+mave assigned with 1 tasks.
+14% of all tasks have been assigned to mave.
+mave has completed 100.0% of their tasks
+mave still has 0.0% of their tasks left to complete.
+mave has 100.0% of tasks completed and has 0 task/s overdue.
+
+dave assigned with 0 tasks.
+0% of all tasks have been assigned to dave.
+dave has completed 0% of their tasks
+dave still has 0% of their tasks left to complete.
+dave has 0% of tasks completed and has 0 task/s overdue.
+
+fred assigned with 0 tasks.
+0% of all tasks have been assigned to fred.
+fred has completed 0% of their tasks
+fred still has 0% of their tasks left to complete.
+fred has 0% of tasks completed and has 0 task/s overdue.
+
+21 savage assigned with 1 tasks.
+14% of all tasks have been assigned to 21 savage.
+21 savage has completed 100.0% of their tasks
+21 savage still has 0.0% of their tasks left to complete.
+21 savage has 100.0% of tasks completed and has 0 task/s overdue.
+
+drake assigned with 0 tasks.
+0% of all tasks have been assigned to drake.
+drake has completed 0% of their tasks
+drake still has 0% of their tasks left to complete.
+drake has 0% of tasks completed and has 0 task/s overdue.
+
+pop smoke assigned with 0 tasks.
+0% of all tasks have been assigned to pop smoke.
+pop smoke has completed 0% of their tasks
+pop smoke still has 0% of their tasks left to complete.
+pop smoke has 0% of tasks completed and has 0 task/s overdue.
+
+tyler assigned with 1 tasks.
+14% of all tasks have been assigned to tyler.
+tyler has completed 0.0% of their tasks
+tyler still has 0.0% of their tasks left to complete.
+tyler has 0.0% of tasks completed and has 0 task/s overdue.
+

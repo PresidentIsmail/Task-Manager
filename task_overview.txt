@@ -1,0 +1,5 @@
+Number of completed tasks in file: 3 task/s completed
+Number of incompleted tasks in file: 4 task/s completed
+Incompleted tasks Overdue: 0 task/s overdue
+Pecentage of incomplete tasks: 57% of task/s incomplete.
+Pecentage of overdue tasks: 0.0% task/s currently overdue.
