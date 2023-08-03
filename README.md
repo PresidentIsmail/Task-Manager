@@ -1,30 +1,34 @@
 # Task Manager
 
-Program to help any small business to manage tasks that are assigned to members of
-the team in the business or to various employees.
 
-The program works with 2 text files:
-* user.txt
-* Tasks.txt
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/80391089/111300533-16e87600-8649-11eb-8eeb-bd86590563d2.png" width="400" style="margin-right: 20px;" />
+  <img src="https://user-images.githubusercontent.com/80391089/111300539-19e36680-8649-11eb-85e6-8f40e409d76e.png" width="400" />
+</p>
 
-### User text file
-The user.txt file stores the username and password for each user that has permission to use the program
+**Streamline task management for small businesses with the Task Manager program.** This Python-based application helps you assign and track tasks among team members or employees.
 
-### Tasks text file
-The tasks.txt file stores the following data:
-* The username of the person assigned with a task
-* The title of the task
-* A description of the task
-* The date the task was assigned to the user
-* A "Yes" or "No" to determiine if the task is completed or not
- 
-## The Program
-When the program is run The user is asked to enter their login details. If the login details exist in the user.txt file
-the user will be shown a menu and will put in whichever opotion they desire and continue with the program until
-the user exits the program.
+## Features
 
-## Screenshots of the program
-![1](https://user-images.githubusercontent.com/80391089/111300533-16e87600-8649-11eb-8eeb-bd86590563d2.png)
+- **User Authentication:** Securely manage user access with login details stored in the `user.txt` file.
+- **Task Tracking:** Store task details in the `tasks.txt` file, including assigned user, title, description, assignment date, and completion status.
+- **User-Friendly Interface:** Navigate the user-friendly menu to perform desired actions efficiently.
 
-![2](https://user-images.githubusercontent.com/80391089/111300539-19e36680-8649-11eb-85e6-8f40e409d76e.png)
+## User Text File
+
+The `user.txt` file contains login credentials for each user authorized to access the program.
+
+## Tasks Text File
+
+The `tasks.txt` file stores task-related information, including user assignments, task titles, descriptions, assignment dates, and completion status.
+
+## How to Use
+
+1. Ensure you have Python installed on your system.
+2. Download the code from the repository and unzip the folder.
+3. Run the program and enter your login details from the `user.txt` file.
+4. Navigate through the menu to assign, track, and manage tasks.
+5. Continue using the program until you decide to exit.
+
+**Please note that this project was developed during my early programming stages at a boot camp. While functional, it may not reflect current industry standards.** Feel free to explore, modify, and adapt the Task Manager to suit your specific needs.
 
