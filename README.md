@@ -1,7 +1,7 @@
 # Task Manager
 
 
-<p float="left">
+<p >
   <img src="https://user-images.githubusercontent.com/80391089/111300533-16e87600-8649-11eb-8eeb-bd86590563d2.png" width="400" style="margin-right: 20px;" />
   <img src="https://user-images.githubusercontent.com/80391089/111300539-19e36680-8649-11eb-85e6-8f40e409d76e.png" width="400" />
 </p>
